@@ -58,30 +58,18 @@ namespace Getraenkemarkt
         
         public void CheckBoxController()
         {
-            if (FantaTBox.Text == "0")
-            {
-               
-            }
-            else
+            if (FantaTBox.Text != "0")
             {
                 count = 1;
                 QuittungRichBox.AppendText("  Fanta \t\t\t\t" + FantaTBox.Text + Environment.NewLine);
             }
            
-            if (ColaTBox.Text == "0")
-            {
-                
-            }
-            else
+            if (ColaTBox.Text != "0")
             {
                 QuittungRichBox.AppendText("  Cola \t\t\t\t" + ColaTBox.Text + Environment.NewLine);
             }
 
-            if (BierTBox.Text == "0")
-            {
-               
-            }
-            else
+            if (BierTBox.Text != "0")
             {
                 QuittungRichBox.AppendText("  Bier \t\t\t\t" + Convert.ToInt16(BierTBox.Text) + Environment.NewLine);
             }
