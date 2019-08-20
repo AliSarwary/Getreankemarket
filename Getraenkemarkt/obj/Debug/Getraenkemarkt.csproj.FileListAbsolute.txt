@@ -1,0 +1,15 @@
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\Getraenkemarkt.exe.config
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\Getraenkemarkt.exe
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\Getraenkemarkt.pdb
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.csprojAssemblyReference.cache
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.Form1.resources
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.Properties.Resources.resources
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.csproj.GenerateResource.cache
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.csproj.CoreCompileInputs.cache
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.exe
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.pdb
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\EntityFramework.dll
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\EntityFramework.xml
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nk.alisar99\Documents\Visual Studio 2017\Projects\Getraenkemarkt\Getraenkemarkt\obj\Debug\Getraenkemarkt.csproj.CopyComplete

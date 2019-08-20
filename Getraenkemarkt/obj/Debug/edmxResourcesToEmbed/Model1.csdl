@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="BeverageShopModel" Alias="Self" annotation:UseStrongSpatialTypes="false" xmlns:annotation="http://schemas.microsoft.com/ado/2009/02/edm/annotation" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm">
+  <EntityType Name="beverage">
+    <Key>
+      <PropertyRef Name="beverage_ID" />
+      <PropertyRef Name="beverageQuantity" />
+    </Key>
+    <Property Name="beverage_ID" Type="Int32" Nullable="false" />
+    <Property Name="beverageName" Type="String" MaxLength="255" FixedLength="false" Unicode="false" />
+    <Property Name="beverageQuantity" Type="Int32" Nullable="false" />
+  </EntityType>
+  <EntityContainer Name="BeverageShopEntities" annotation:LazyLoadingEnabled="true">
+    <EntitySet Name="beverage" EntityType="Self.beverage" />
+  </EntityContainer>
+</Schema>
